@@ -2,9 +2,7 @@
 
 int main()
 {
-	printf("%d", 12 + 34);
+	printf("a-×Ö·û \n");
 
 	return 0;
 }
-
-//æµ‹è¯•
